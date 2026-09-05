@@ -3,11 +3,33 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Sau Lok Li
+* Tested on: Windows 11, AMD Ryzen 9 270 32GB, NVIDIA GeForce RTX 5070 Laptop 8GB (Personal Laptop)
 
-### (TODO: Your README)
+## CUDA GL Check
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+![CUDA GL Check](images/cuda-gl-check.png)
+
+## Nsight Debugger
+
+![Nsight Debugger](images/nsight-debugger.png)
+
+## Nsight Systems
+
+![Nsight Systems Summary](images/nsight-system-summary.png)
+
+![Nsight Systems Timeline](images/nsight-system-timeline.png)
+
+## Nsight Compute
+
+![Nsight Compute Summary](images/nsight-compute-summary.png)
+
+![Nsight Compute Details](images/nsight-compute-details.png)
+
+## WebGL
+
+![WebGL](images/webgl-report.png)
+
+## WebGPU
+
+![WebGPU](images/webgpu-report.png)
